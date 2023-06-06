@@ -3,5 +3,6 @@ package tagtest
 import "fmt"
 
 func Salom() {
-	fmt.Println("Salom V3")
+	salom := "Salom aleykum"
+	fmt.Println(salom)
 }
