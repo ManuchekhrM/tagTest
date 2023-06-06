@@ -3,5 +3,5 @@ package tagtest
 import "fmt"
 
 func Salom() {
-	fmt.Println("Salom Master")
+	fmt.Println("Salom V1")
 }
